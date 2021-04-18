@@ -9,13 +9,12 @@
       - Either by holding the shuffle button down, or pressing it as many times as needed
   - Ability to reset all cards & restart the spread
   - Displays chosen spreads' name & number of cards included
-  - Displays each cards' numbers' representaion within the spread while the user selects one
+  - Displays each cards' numbers' representation within the spread while the user selects one
   - When all cards have been chosen, the site displays the chosen cards alongside
-      - Their simplified interperted meaning
+      - Their simplified interpreted meaning
       - What they represent within the spread
   - Users may use this to draw their own conclusions for the cards they chose
-  
-  
+
 ### Animations
 
   - Card shuffle
@@ -26,8 +25,6 @@
 
 ### TODO:
 
-  - Fix current issue in display of the site
-      - Currently cuts off at the top
   - Include more detailed descriptions of a cards' meanings
   - Create pixel art for card fronts
   - Allow access for mobile users
