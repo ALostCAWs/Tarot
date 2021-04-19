@@ -5,10 +5,8 @@ body {
 }
 
 .btn-container {
-   margin: auto;
-   margin-top: -8em;
-   align-content: center;
-   width: 21%;
+   display: flex;
+   justify-content: center;
 }
 
 button {
@@ -33,9 +31,8 @@ button.disabled {
 }
 
 .sel-container {
-   margin: auto;
-   align-content: center;
-   width: 13%;
+   display: flex;
+   justify-content: center;
 }
 
 .sel-container select {
