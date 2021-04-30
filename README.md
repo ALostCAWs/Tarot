@@ -28,3 +28,4 @@
   - Include more detailed descriptions of a cards' meanings
   - Create pixel art for card fronts
   - Allow access for mobile users
+  - Allow users to print off their spreads' results
